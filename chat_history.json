@@ -1,0 +1,26 @@
+[
+  {
+    "type": "human",
+    "content": "hi"
+  },
+  {
+    "type": "ai",
+    "content": "Hello. How can I assist you today?"
+  },
+  {
+    "type": "human",
+    "content": "thanks"
+  },
+  {
+    "type": "ai",
+    "content": "You're welcome. Is there something I can help you with, or would you like to chat?"
+  },
+  {
+    "type": "human",
+    "content": "no"
+  },
+  {
+    "type": "ai",
+    "content": "It was nice saying hello anyway. Have a great day!"
+  }
+]
